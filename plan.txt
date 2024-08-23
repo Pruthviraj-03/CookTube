@@ -1,0 +1,21 @@
+Decide the name = Done
+Find the Logo = Done
+Frontend installation = Done
+Backend installation = Done
+Header
+Home
+Categories
+Free
+Scripts
+Reviews
+Wishlist 
+Cart
+Profile
+History
+Downloads
+User Profile
+Edit Profile
+Login
+otp
+
+Frontend done.
