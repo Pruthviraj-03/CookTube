@@ -19,3 +19,29 @@ Login
 otp
 
 Frontend done.
+
+
+
+home 
+Profile
+line
+you 
+orders
+bookmarks
+History
+Downloads
+line
+pages
+Categories
+Free
+Scripts
+Reviews
+line
+company
+about Us
+contact Us
+privacy policy 
+terms of services
+line
+
+copywrite line

@@ -38,15 +38,15 @@ const Header = () => {
         </div>
         <div className="w-7 h-auto flex flex-row items-center gap-6">
           <FontAwesomeIcon
-            className="text-2xl text-dark-grey cursor-pointer"
+            className="text-2xl text-main-color cursor-pointer"
             icon={faHeart}
           />
           <FontAwesomeIcon
-            className="text-2xl text-dark-grey cursor-pointer"
+            className="text-2xl text-main-color cursor-pointer"
             icon={faShoppingCart}
           />
           <FontAwesomeIcon
-            className="text-2xl text-dark-grey cursor-pointer"
+            className="text-2xl text-main-color cursor-pointer"
             icon={faUser}
           />
         </div>
