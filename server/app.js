@@ -54,11 +54,9 @@ const client = twilio(accountSid, authToken);
 
 //routes import
 import { router as userRouter } from "./src/routes/user.routes.js";
-import { router as productRouter } from "./src/routes/products.routes.js";
 
 //routes declaration
 app.use("/api/v1/users", userRouter);
-app.use("/api/v2", productRouter);
 
 // http://localhost:8000/api/v1/users/google/callback
 // http://localhost:8000/api/v2
