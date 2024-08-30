@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "./Components/Header";
-import Navbar from "./Components/Navbar";
+import Home from "./Pages/Home";
 
 const App = () => {
   return (
     <div>
       <Header />
-      <Navbar />
+      <Home />
     </div>
   );
 };

@@ -18,7 +18,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 const Navbar = () => {
   return (
-    <div className="flex flex-col w-10 h-auto ml-2.5 gap-1 mt-2">
+    <div className="flex flex-col w-10 h-auto ml-2.5 gap-1 mt-4">
       <div className="w-full h-9 border border-main-color rounded-md flex items-center pl-5 gap-5 cursor-pointer">
         <FontAwesomeIcon className="text-md" icon={faHome} />
         <span className="font-poppins text-md font-500">Home</span>

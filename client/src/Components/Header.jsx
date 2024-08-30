@@ -7,7 +7,7 @@ import {
   faShoppingCart,
   faUser,
 } from "@fortawesome/free-solid-svg-icons";
-import Logo from "../Images/logo.png";
+import Logo from "../Images/logo3.png";
 
 const Header = () => {
   return (
@@ -18,8 +18,8 @@ const Header = () => {
             className="text-2xl text-main-color cursor-pointer"
             icon={faBars}
           />
-          <div className="flex flex-row items-center cursor-pointer">
-            <img src={Logo} className="w-30" alt="web logo" />
+          <div className="flex flex-row items-center cursor-pointer gap-7">
+            <img src={Logo} className="w-19 h-15" alt="web logo" />
             <span className="font-poppins text-2xl font-800 text-main-color">
               CookTube
             </span>
@@ -28,7 +28,7 @@ const Header = () => {
         <div className="w-30 h-10 flex flex-row items-center border border-dark-grey rounded-md">
           <input
             type="text"
-            className="w-95 px-3 border-none outline-none"
+            className="font-poppins w-95 px-3 border-none outline-none"
             placeholder="Search..."
           ></input>
           <FontAwesomeIcon
